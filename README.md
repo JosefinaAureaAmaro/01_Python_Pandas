@@ -3,7 +3,9 @@
 </div>
 <div>
 <h2> Repository Details </h2>
-Consumer Demographic Analytics using the "Heroes of Pymoli" dataset.  
+ <p>Consumer Demographic Analytics using the "Heroes of Pymoli" dataset.</p>
+  
+
 <p> The <b>objective</b> of this excerise was to practice using the Pandas library for Data Analysis. Starting with a dataset, we first determine the integrity of the dataset and review it for duplicate data or incomplete data. Then, the second step was to automate the process of summarizing per categorical data and using aggregation functions to demonstrate results based on a given metric. The final results were presented in Pandas's Dataframes, which are ready to be exported into excel for the end-user.<p>
 </div>
 

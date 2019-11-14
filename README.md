@@ -1,5 +1,5 @@
 # 01_Python_Pandas
-✏️🐍 Consumer Demographic Analytics
+Consumer Demographic Analytics
 
 <p><b> Main Library </b></p>
 <p> Pandas </p>

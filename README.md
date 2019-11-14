@@ -1,4 +1,7 @@
-# 01_Python_Pandas
+<div align="center">
+<img src="https://github.com/JosefinaAureaAmaro/01_Python_Pandas/blob/master/images/read_me_header_img.PNG">
+</div>
+<h2> Repository Details </h2>
 Consumer Demographic Analytics
 
 <p><b> Main Library </b></p>

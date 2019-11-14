@@ -4,8 +4,9 @@
 <h2> Repository Details </h2>
 Consumer Demographic Analytics
 
-<p><b> Main Library </b></p>
-<p> Pandas </p>
+<div>
+  <p><b> Objectives:</b><p>
+  <p> Data Manipulation, Summarize Data Analysis & review Data Integrity </p>
 
 <p> Python Operations Demonstrated: </p>
 <ul>
@@ -13,6 +14,5 @@ Consumer Demographic Analytics
   <li> Aggregate Functions per Categorized Data </li>
   <li> Rename Columns </li>
   <li> Merge Dataframes </li>
-
-<p><b> Objectives:</b><p>
-  <p> Data Manipulation, Summarize Data Analysis & review Data Integrity </p>
+</ul>
+</div>

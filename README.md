@@ -19,3 +19,14 @@
   <li> High-Level Standard Deviation analysis between values of categorical data to review outliers</li>
 </ul>
 </div>
+
+<h2> Code Samples 📓</h2>
+<p><b> Sample from:</b> Video_Game_Demographic_Analysis</p>
+
+
+
+
+<div align="center">
+<a href="https://github.com/JosefinaAureaAmaro/00_Python_Beginner/blob/master/Python_For_and_While_Loops/election_analysis.py">
+<img src="https://github.com/JosefinaAureaAmaro/00_Python_Beginner/blob/master/images/code_click_img.PNG"></a>
+</div>

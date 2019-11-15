@@ -27,6 +27,6 @@
 
 
 <div align="center">
-<a href="https://github.com/JosefinaAureaAmaro/01_Python_Pandas/blob/master/Video_Game_Demographic_Analysis.ipynb">
+<a href="https://github.com/JosefinaAureaAmaro/01_Python_Pandas/blob/master/Video_Game_Demographic_Analysis.ipynb" target="_blank">
 <img src="https://github.com/JosefinaAureaAmaro/01_Python_Pandas/blob/master/images/code_click_img.PNG"></a>
 </div>

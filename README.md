@@ -27,6 +27,6 @@
 
 
 <div align="center">
-<a href="https://github.com/JosefinaAureaAmaro/00_Python_Beginner/blob/master/Python_For_and_While_Loops/election_analysis.py">
-<img src="https://github.com/JosefinaAureaAmaro/00_Python_Beginner/blob/master/images/code_click_img.PNG"></a>
+<a href="https://github.com/JosefinaAureaAmaro/01_Python_Pandas/blob/master/Video_Game_Demographic_Analysis.ipynb">
+<img src="https://github.com/JosefinaAureaAmaro/01_Python_Pandas/blob/master/images/code_click_img.PNG"></a>
 </div>
